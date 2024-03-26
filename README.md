@@ -6,4 +6,4 @@ Dataset used-- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 <br>
 
-<a href="url"><img src="https://github.com/rodeketan/CC_Fraud_Detector/blob/master/Img/domwnload.png" align="left" height="500" width="950"></a>
+<a href="url"><img src="https://github.com/rodeketan/CC_Fraud_Detector/blob/master/Img/domwnload.png" align="left" ></a>
